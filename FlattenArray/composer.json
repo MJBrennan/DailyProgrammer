@@ -1,0 +1,13 @@
+{
+    "name": "mike/mike",
+    "description": "Flatten an array with PHP",
+    "authors": [
+        {
+            "name": "Michael",
+            "email": "you@m.com"
+        }
+    ],
+     "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
