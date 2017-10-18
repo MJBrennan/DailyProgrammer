@@ -1,0 +1,12 @@
+{
+    "name": "mick/collatz_conjecture",
+    "require": {
+        "phpunit/phpunit": "^3.7"
+    },
+    "authors": [
+        {
+            "name": "Michael",
+            "email": "you@m.com"
+        }
+    ]
+}
